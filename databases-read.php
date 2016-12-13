@@ -15,7 +15,7 @@
 
 
 	// 2. Perform database query
-	$query = "SELECT * FROM contactinf ";
+	$query = "SELECT * FROM contact ";
 
 
 	$result = mysqli_query($connection, $query);

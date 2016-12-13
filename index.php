@@ -99,7 +99,7 @@
   				</div>
   				<div class="card-block">
     				<p class="card-text">Understood even better the concepts that allow my site to be visually appealing.</p>
-            <p>Furthered my technique by implementing pre-existing frameworks, that allowed to ease personaliztation.</p>
+            <p>Furthered my technique by implementing pre-existing frameworks, that personalizes.</p>
   				</div>
 			</div>
    

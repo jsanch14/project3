@@ -54,7 +54,7 @@
    </head>
    
    <body>
-      <form action="database-write.php" name="myForm" onsubmit="return(validate());">
+      <form action="database-write.php" name="myForm" onsubmit="return(validate());" method="post">
          <table cellspacing="2" cellpadding="2" border="1">
             
             <tr>
